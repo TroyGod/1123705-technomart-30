@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Рамазан Рахимбаев](https://up.htmlacademy.ru/htmlcss/30/user/1123705).
-* Наставник: [Андрей Гинтер](https://htmlacademy.ru/profile/id781369).
+* Наставник: [Дмитрий Мирошниченко](https://htmlacademy.ru/profile/id591417).
 
 ---
 
